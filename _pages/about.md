@@ -24,10 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-With over 20 years of UX design experience, I specialize in transforming user needs into engaging digital experiences with a strong focus on aesthetic usability. Always push for better, faster, simpler, more engaging solutions tocomplex business processes and technical challenges.
+I’m Qun, a UX/UI designer based in Shanghai. I’ve always been passionate about all aspects of design and I have 20 years of experience in user interfaces, graphic design and front end development. I specialize in transforming user needs into engaging digital experiences with a strong focus on aesthetic usability. Always push for better, faster, simpler, more engaging solutions tocomplex business processes and technical challenges.
 
-Skilled in user research, prototyping, interactivity design, CSS debugging.
+I’m also getting more and more passionate about new AI tools and how to include them in my workflow in order to improve and speed up the delivery. 
 
-
+I have been trained to be proficient when working remotely, while dealing with complex projects and strict deadlines. During my career, I learned how to collaborate well with cross-functional partners including product managers and engineers. As well as, I am used to combining my versatile experience with my ability to connect with people in order to create the best work environment with my team.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
