@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About me
+title: about
 permalink: /
 subtitle: UX Designer | User-Centric Design | Digital Experience
 
