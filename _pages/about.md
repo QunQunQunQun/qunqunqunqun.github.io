@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m Qun, a UX/UI designer based in Shanghai. I’ve always been passionate about all aspects of design and I have 20 years of experience in user interfaces, graphic design and front end development. I specialize in transforming user needs into engaging digital experiences with a strong focus on aesthetic usability. Always push for better, faster, simpler, more engaging solutions tocomplex business processes and technical challenges.
+I’m Qun, a UX/UI designer based in Shanghai. I’ve always been passionate about all aspects of design and I have 20 years of experience in user interfaces, graphic design and front end development. I specialize in transforming user needs into engaging digital experiences with a strong focus on aesthetic usability. Always push for better, faster, simpler, more engaging solutions to complex business processes and technical challenges.
 
 I’m also getting more and more passionate about new AI tools and how to include them in my workflow in order to improve and speed up the delivery. 
 
