@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: UX Designer | User-Centric Design | Digital Experience
+subtitle: UX Designer | hiqun@126.com | 15795095790
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>hiqun@126.com</p>
     <p>Shanghai, China</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
