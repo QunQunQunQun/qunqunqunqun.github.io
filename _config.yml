@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Zhang Qun | UX Designer # the website title (if blank, full name will be used instead)
-first_name: Zhang
+title: blank # the website title (if blank, full name will be used instead)
+first_name: Qun
 # middle_name: R.
-last_name: Qun
+last_name: Zhang
 contact_note: >
   The best way to contact me is via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
