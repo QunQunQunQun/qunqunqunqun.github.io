@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: UX Designer | <hiqun@126.com> | 15795095790
+subtitle: UX Designer | [Font Awesome icons](https://fontawesome.com/) | 15795095790
 
 profile:
   align: right
