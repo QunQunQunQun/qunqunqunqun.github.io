@@ -4,7 +4,6 @@
 
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
-bluesky_url: ZhangQun-CV-15795095790.pdf
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: hiqun@126.com # your email address
@@ -21,6 +20,7 @@ email: hiqun@126.com # your email address
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
 linkedin_username: zhangqun2010
+bluesky_url: assets/pdf/ZhangQun-CV-15795095790.pdf
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -29,8 +29,8 @@ linkedin_username: zhangqun2010
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-#  rss_icon: true # set to true to show the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+# rss_icon: true # set to true to show the RSS icon
+# scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
