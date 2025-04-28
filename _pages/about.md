@@ -29,6 +29,6 @@ I’m Qun, a UX/UI designer based in Shanghai. I’ve always been passionate abo
 
 I’m also getting more and more passionate about new AI tools and how to include them in my workflow in order to improve and speed up the delivery. 
 
-I have been trained to be proficient when working remotely, while dealing with complex projects and strict deadlines. During my career, I learned how to collaborate well with cross-functional partners including product managers and engineers. As well as, I am used to combining my versatile experience with my ability to connect with people in order to create the best work environment with my team. [Font Awesome icons](https://fontawesome.com/)
+I have been trained to be proficient when working remotely, while dealing with complex projects and strict deadlines. During my career, I learned how to collaborate well with cross-functional partners including product managers and engineers. As well as, I am used to combining my versatile experience with my ability to connect with people in order to create the best work environment with my team. [View my resume](/assets/pdf/ZhangQun-CV-15795095790.pdf)
 
 When I’m not lost in my Figma files, you can find me learning new jazz chords on the guitar!
