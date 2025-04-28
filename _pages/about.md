@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: UX Designer | hiqun@126.com | 15795095790
 
