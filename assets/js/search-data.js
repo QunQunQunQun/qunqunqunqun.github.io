@@ -511,6 +511,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/zhangqun2010", "_blank");
         },
       },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+        },
+      },{
         id: 'social-wechat_qr',
         title: 'Wechat_qr',
         section: 'Socials',
@@ -520,13 +527,6 @@ ninja.data = [{
       },{
         id: 'social-work',
         title: 'Work',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://space.bilibili.com/403696048", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
         section: 'Socials',
         handler: () => {
           window.open("https://space.bilibili.com/403696048", "_blank");
