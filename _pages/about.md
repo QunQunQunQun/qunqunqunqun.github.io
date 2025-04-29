@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: UX Designer | hiqun@126.com | 15795095790
-
+subtitle: UX Designer | hiqun@126.com | 15795095790 | [View my resume](/assets/pdf/ZhangQun-CV-15795095790.pdf)
 profile:
   align: right
   image: prof_pic.jpg
